@@ -1,0 +1,10 @@
+Package: grecord
+Version: 1.04
+Architecture: amd64
+Maintainer: Eric Sebasta <allpraise@gma1l.com>
+Depends: libgtk-3-0, alsa-utils, ffmpeg, wf-recorder
+Section: video
+Priority: optional
+Description: gRecord - GTK Screen Recorder Frontend
+ A simple tray-based screen recorder that uses ffmpeg (for X11) or wf-recorder (for Wayland). Written in FreeBASIC.
+ Source in /usr/share/docs/gRecord

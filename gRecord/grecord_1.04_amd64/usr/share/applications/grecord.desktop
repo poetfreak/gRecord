@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=gRecord
+Comment=GTK Screen Recorder Frontend
+Exec=grecord
+Icon=grecord
+Terminal=false
+Categories=AudioVideo;Player;Recorder;

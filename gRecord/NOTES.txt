@@ -1,0 +1,5 @@
+gRecord - gtk record screen.
+
+straight gtk3 screenrecording frontend in freebasic
+It should work in wayland AND X11 and produces tight
+small videos.
